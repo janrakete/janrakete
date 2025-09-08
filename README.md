@@ -1,4 +1,4 @@
- __   __  ___   __    
+ `__   __  ___   __    
 |  | |  ||   | |  |   
 |  |_|  ||   | |  |   
 |       ||   | |  |   
@@ -6,4 +6,4 @@
 |   _   ||   |  __    
 |__| |__||___| |__|   
 
-I am Jan. I have been programming a lot since I was 14, and I am still enjoying it.
+I am Jan. I have been programming a lot since I was 14, and I am still enjoying it.`
